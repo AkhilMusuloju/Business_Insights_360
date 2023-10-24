@@ -91,41 +91,40 @@ dim_customer
 - 27 distinct markets (ex India, USA, spain)
 - 75 distinct customers thorough out the market
 - 2 types of platforms
-- Brick & Motors - Physical/offline store
-- E-commerce - Online Store (Amazon, flipkart)
+     - Brick & Motors - Physical/offline store
+     - E-commerce - Online Store (Amazon, flipkart)
 - Three channels
-  
-@ Retailer
-@ Direct
-@ Distributors
+     - Retailer
+     - Direct
+     - Distributors
 
 **dim_market:**
 - 27 distinct markets (ex India, USA, spain)
 - 7 sub-zones
 - 4 regions
-  APAC,
-EU,
-nan,
-LATAM.
+     - APAC
+     - EU
+     - nan
+     - LATAM
 
 **dim_product:**
 - Divisions
-- P & A
-- Peripherals
-- Accessories
-- PC
-- Notebook
-- Desktop
-- N & S
-- Networking
-- Storage
+  - P & A
+    - Peripherals
+    - Accessories
+  - PC
+    - Notebook
+    - Desktop
+  - N & S
+    - Networking
+    - Storage
 - There are 14 different categories, Like Internal HDD, keyboard
 - There are different variants available for the same product
   
 **fact_forecast_monthly:**
 - This table is used to forecast the customer’s need in advance, which can help in
-Higher customer satisfaction
-- Reduced cost in warehouses for storage purpose
+    - Higher customer satisfaction
+    - Reduced cost in warehouses for storage purpose
 - The table is denormalized by data engineering team, as it is a data warehouse which is aimed to be used for analytical work.
 - All the date of the month will be replaced by the start date of the month
 - It will have all the column names and in the end it will have the forecast quantity need of the customer
