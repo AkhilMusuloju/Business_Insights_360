@@ -175,6 +175,23 @@ In Home view, all the views button will be available. User will land on specific
 - Supply chain View
 - Executive View
 - Support
+<img width="518" alt="Home" src="https://github.com/AkhilMusuloju/Business_Insights_360/assets/142907602/8881e840-73c2-4d15-a926-7222131933a0">
+
+## Finance View
+<img width="558" alt="Finance View" src="https://github.com/AkhilMusuloju/Business_Insights_360/assets/142907602/4e395766-b093-4b08-a06f-4784305e0cfd">
+
+## Sales View
+<img width="558" alt="Sales View" src="https://github.com/AkhilMusuloju/Business_Insights_360/assets/142907602/8cd56d9c-1f8f-4fac-8d40-bf632803db33">
+
+## Marketing View
+<img width="559" alt="Markeng View" src="https://github.com/AkhilMusuloju/Business_Insights_360/assets/142907602/98d0233e-1020-41ac-9490-9f3b2b582cff">
+
+## Supply chain View
+<img width="558" alt="Supply Chain View" src="https://github.com/AkhilMusuloju/Business_Insights_360/assets/142907602/32b7db0c-fb67-4e56-bb79-f4bf42a5c91c">
+
+## Executive View
+<img width="579" alt="Executive View" src="https://github.com/AkhilMusuloju/Business_Insights_360/assets/142907602/f3527c76-043b-4d65-9285-a4ba8aa0b3cd">
+
 
 ## **Project Outcome**
 
