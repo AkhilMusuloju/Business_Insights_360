@@ -158,6 +158,7 @@ Following Good practices of data modeling is must.
 
 In this project, we have followed Snowfall data modeling method.
 
+<img width="582" alt="Screenshot 2023-10-03 191958" src="https://github.com/AkhilMusuloju/Business_Insights_360/assets/142907602/b4baff97-6ef9-44cc-93cf-8f59812ce70c">
 
 ## **Dashboard designing:**
 Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
