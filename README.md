@@ -52,6 +52,7 @@ And more
 - Retailer
 - Distributors
 - Consumer
+  
 ## **Company’s back ground:**
   
 AltiQ hardware is a company which has grown vastly in the recent years, and opened business all over the globe. It is a company which sells, computer and computer accessories through three mediums/channel
