@@ -170,29 +170,32 @@ Based on the mock ups received as requirement, the team will start designing the
 In Home view, all the views button will be available. User will land on specific view page by clicking the button
 
 **Info**
+- Home 
 - Finance View
 - Sales View
 - Marketing View
 - Supply chain View
 - Executive View
+- Info
 - Support
-<img width="518" alt="Home" src="https://github.com/AkhilMusuloju/Business_Insights_360/assets/142907602/8881e840-73c2-4d15-a926-7222131933a0">
+
+## Home
+<img width="574" alt="BI Home" src="https://github.com/AkhilMusuloju/Business_Insights_360/assets/142907602/bff94979-e503-4c8b-9547-6ba1ef44d0ce">
 
 ## Finance View
-<img width="558" alt="Finance View" src="https://github.com/AkhilMusuloju/Business_Insights_360/assets/142907602/4e395766-b093-4b08-a06f-4784305e0cfd">
+<img width="585" alt="BI Finance" src="https://github.com/AkhilMusuloju/Business_Insights_360/assets/142907602/e3819969-891f-4201-8350-70c59ccc5f1d">
 
 ## Sales View
-<img width="558" alt="Sales View" src="https://github.com/AkhilMusuloju/Business_Insights_360/assets/142907602/8cd56d9c-1f8f-4fac-8d40-bf632803db33">
+<img width="515" alt="BI Sales" src="https://github.com/AkhilMusuloju/Business_Insights_360/assets/142907602/7ba57766-d816-4762-b0f0-cba367f8748a">
 
 ## Marketing View
-<img width="559" alt="Markeng View" src="https://github.com/AkhilMusuloju/Business_Insights_360/assets/142907602/98d0233e-1020-41ac-9490-9f3b2b582cff">
+<img width="515" alt="BI Marketing" src="https://github.com/AkhilMusuloju/Business_Insights_360/assets/142907602/46f50826-a7dd-4236-b878-f1f4d2ad141c">
 
 ## Supply chain View
-<img width="558" alt="Supply Chain View" src="https://github.com/AkhilMusuloju/Business_Insights_360/assets/142907602/32b7db0c-fb67-4e56-bb79-f4bf42a5c91c">
+<img width="516" alt="BI SupplyChain" src="https://github.com/AkhilMusuloju/Business_Insights_360/assets/142907602/a589bd4f-95b7-4fd3-aa71-a9d9196378aa">
 
 ## Executive View
-<img width="579" alt="Executive View" src="https://github.com/AkhilMusuloju/Business_Insights_360/assets/142907602/f3527c76-043b-4d65-9285-a4ba8aa0b3cd">
-
+<img width="537" alt="BI Exective" src="https://github.com/AkhilMusuloju/Business_Insights_360/assets/142907602/8313dbc0-e50a-4aa5-af83-dae0859356e9">
 
 ## **Project Outcome**
 
